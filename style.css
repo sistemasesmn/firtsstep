@@ -1,0 +1,9 @@
+body {
+    padding: 5px auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #def;
+}
+h3 {
+    margin: 20px;
+    color: #4a8;
+}
